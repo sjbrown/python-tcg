@@ -7,7 +7,7 @@ First [get an API key](https://help.thegamecrafter.com/article/150-developer-api
 
 Then:
 ```bash
-export export THEGAMECRAFTER_PUBLIC_KEY=<your API key>
+export THEGAMECRAFTER_PUBLIC_KEY=<your API key>
 export THEGAMECRAFTER_USER=<your username
 export THEGAMECRAFTER_PASSWORD=<your password>
 ```
