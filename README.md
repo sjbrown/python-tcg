@@ -1,6 +1,13 @@
 # python-tcg
 A quick-and-dirty package that allows Python to talk to thegamecrafter.com's API
 
+You might think I transposed a couple characters accidentally in the name, but actually, "TCG" stands for:
+
+ * The Crafting Gamer ?
+ * Typos Corrected Galore ?
+ * This Coward Goofed ?
+ * Transposed Characters. Great. ?
+
 # Usage
 
 First [get an API key](https://help.thegamecrafter.com/article/150-developer-api)
